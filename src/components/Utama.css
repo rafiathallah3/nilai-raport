@@ -240,27 +240,35 @@ tbody tr:hover {
     }
 
     table tbody tr td:nth-child(1):before {
-        content: "Date";
+        content: "Pelajaran";
     }
 
     table tbody tr td:nth-child(2):before {
-        content: "Order ID";
+        content: "Semester 1";
     }
 
     table tbody tr td:nth-child(3):before {
-        content: "Name";
+        content: "Semester 2";
     }
 
     table tbody tr td:nth-child(4):before {
-        content: "Price";
+        content: "Semester 3";
     }
 
     table tbody tr td:nth-child(5):before {
-        content: "Quantity";
+        content: "Semester 4";
     }
 
     table tbody tr td:nth-child(6):before {
-        content: "Total";
+        content: "Semester 5";
+    }
+
+    table tbody tr td:nth-child(7):before {
+        content: "Semester 6";
+    }
+
+    table tbody tr td:nth-child(8):before {
+        content: "Rata-rata";
     }
 
     .column4,
