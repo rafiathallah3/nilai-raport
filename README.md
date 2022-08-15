@@ -1,4 +1,4 @@
-## Ini cuman untuk menentukan kalau nilai ulangan ku naik atau tidak (Spoiler: Naik terus)
+## Ini cuman untuk menentukan kalau nilai ulangan ku naik atau tidak (Spoiler: Naik terus), bisa lihat disini: https://nilai-raport.herokuapp.com/
 
 # Getting Started with Create React App
 
