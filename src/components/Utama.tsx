@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { Chart as ChartJS, ChartData, ChartDataset, ChartOptions, registerables } from 'chart.js';
 import { Line } from 'react-chartjs-2';
-import data from '../data/Nilai.json';
+import data from '../data/Nilai Rafi.json';
 import './Utama.css';
 
 ChartJS.register(...registerables);
