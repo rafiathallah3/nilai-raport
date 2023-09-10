@@ -5,7 +5,7 @@
                 "Agama Islam": 87,
                 "Politics" : 87,
                 "Indonesia Language": 84,
-                "MTK Wajib": 69,
+                "MTK Wajib": 76,
                 "English": 90,
                 "History": 90,
                 "PJOK": 76,
@@ -17,7 +17,7 @@
                 "Chemistry": 94
             },
             "Semester 2": {
-                "Agama Islam": 63,
+                "Agama Islam": 76,
                 "Politics" : 93,
                 "Indonesia Language": 86,
                 "MTK Wajib": 82,
@@ -27,8 +27,8 @@
                 "PKWU": 88,
                 "SBK": 79,
                 "MTK Minat": 88,
-                "Biology": 72,
-                "Physics": 75,
+                "Biology": 77,
+                "Physics": 76,
                 "Chemistry": 88
             },
             "Semester 3": {
@@ -109,7 +109,7 @@
                 "Chemistry": 88
             },
             "Semester 2": {
-                "Agama Islam": 63,
+                "Agama Islam": 76,
                 "Politics" : 93,
                 "Indonesia Language": 86,
                 "MTK Wajib": 85,
@@ -119,7 +119,7 @@
                 "PKWU": 85,
                 "SBK": 79,
                 "MTK Minat": 90,
-                "Biology": 70,
+                "Biology": 77,
                 "Physics": 75,
                 "Chemistry": 80
             },
